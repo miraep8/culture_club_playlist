@@ -22,14 +22,14 @@ song_id	recommender_id	song_artist	song_title	year	youtube_link
 21	5	Push Ups	Doberman	2023	https://www.youtube.com/watch?v=EAju-Bg9kMM&list=RDEAju-Bg9kMM&start_radio=1
 22	5	El Mató a un Policia Motorizado	Fuego	2017	https://www.youtube.com/watch?v=kn32hxE7pCw
 23	5	El Otro Grupo	Fragmento	2020	https://www.youtube.com/watch?v=-8zgTc7Vh0w&list=RD-8zgTc7Vh0w&start_radio=1
-24	6	Basket Case	Green Day	1994	https://www.youtube.com/watch?v=VKjEdYrx9P0&list=RDVKjEdYrx9P0&start_radio=1
-25	6	Piano Man	Billy Joel	1973	https://www.youtube.com/watch?v=gxEPV4kolz0&list=RDgxEPV4kolz0&start_radio=1
-26	6	Enemy	Imagine Dragons & JID	2021	https://www.youtube.com/watch?v=D9G1VOjN_84&list=RDD9G1VOjN_84&start_radio=1
-27	6	Viva la Vida	 Coldplay	2008	https://www.youtube.com/watch?v=dvgZkm1xWPE&list=RDdvgZkm1xWPE&start_radio=1
-28	6	Dial Drunk	Noah Kahan	2023	https://www.youtube.com/watch?v=m9Kev73C2cc&list=RDm9Kev73C2cc&start_radio=1
-29	7	Teach me how to Dougie	Cali Swag District	2010	https://www.youtube.com/watch?v=PIHtUxnRN0c&list=RDPIHtUxnRN0c&start_radio=1
-30	7	Ordinary	Alex Warren	2025	https://www.youtube.com/watch?v=u2ah9tWTkmk&list=RDu2ah9tWTkmk&start_radio=1
-31	7	Zoo (From "Zootopia 2")	Disney & Shakira	2025	https://www.youtube.com/watch?v=Xry6B0I3pT8&list=RDXry6B0I3pT8&start_radio=1
-32	7	月之非主流	Y.U	2020	https://www.youtube.com/watch?v=3qfSSaG0vIM&list=RD3qfSSaG0vIM&start_radio=1
-33	7	make up your mind	mj apanay	2023	https://www.youtube.com/watch?v=hhiqpsNhWwA
-34	7	亮片	驴儿	2024	https://www.youtube.com/watch?v=8gN9guYzX5s&list=RD8gN9guYzX5s&start_radio=1
+24	6	Green Day	Basket Case	1994	https://www.youtube.com/watch?v=VKjEdYrx9P0&list=RDVKjEdYrx9P0&start_radio=1
+25	6	Billy Joel	Piano Man	1973	https://www.youtube.com/watch?v=gxEPV4kolz0&list=RDgxEPV4kolz0&start_radio=1
+26	6	Imagine Dragons & JID	Enemy	2021	https://www.youtube.com/watch?v=D9G1VOjN_84&list=RDD9G1VOjN_84&start_radio=1
+27	6	Coldplay	 Viva la Vida	2008	https://www.youtube.com/watch?v=dvgZkm1xWPE&list=RDdvgZkm1xWPE&start_radio=1
+28	6	Noah Kahan	Dial Drunk	2023	https://www.youtube.com/watch?v=m9Kev73C2cc&list=RDm9Kev73C2cc&start_radio=1
+29	7	Cali Swag District	Teach Me How to Dougie	2010	https://www.youtube.com/watch?v=PIHtUxnRN0c&list=RDPIHtUxnRN0c&start_radio=1
+30	7	Alex Warren	Ordinary	2025	https://www.youtube.com/watch?v=u2ah9tWTkmk&list=RDu2ah9tWTkmk&start_radio=1
+31	7	Disney & Shakira	Zoo (From "Zootopia 2")	2025	https://www.youtube.com/watch?v=Xry6B0I3pT8&list=RDXry6B0I3pT8&start_radio=1
+32	7	Y.U	月之非主流	2020	https://www.youtube.com/watch?v=3qfSSaG0vIM&list=RD3qfSSaG0vIM&start_radio=1
+33	7	mj apanay	make up your mind	2023	https://www.youtube.com/watch?v=hhiqpsNhWwA
+34	7	驴儿	亮片	2024	https://www.youtube.com/watch?v=8gN9guYzX5s&list=RD8gN9guYzX5s&start_radio=1
